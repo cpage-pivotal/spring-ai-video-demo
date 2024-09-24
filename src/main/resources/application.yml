@@ -5,7 +5,7 @@ spring:
       chat:
         options:
           temperature: 0.3
-          model: gpt-4-turbo-preview
+          model: gpt-4o
       embedding:
         options:
           model: text-embedding-3-small
